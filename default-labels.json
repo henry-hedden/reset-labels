@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1180408534,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTM0",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1180408537,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTM3",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1180408539,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTM5",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1180408543,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTQz",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1180408542,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTQy",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1180408546,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTQ2",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1180408549,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTQ5",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1180408551,
+    "node_id": "MDU6TGFiZWwxMTgwNDA4NTUx",
+    "url": "https://api.github.com/repos/amanire/enlabeler-test/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]
